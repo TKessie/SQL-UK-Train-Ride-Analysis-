@@ -1,3 +1,8 @@
+Tools Used:
+- MySQL
+- SQL (Aggregation, Filtering, Ranking)
+- GitHub
+  
 ## Project Overview
 
 This SQL project analyses UK railway journey data to explore delays, revenue, and operational patterns.  
