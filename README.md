@@ -26,6 +26,12 @@ This analysis answers the following questions:
 
 ---
 
+## Project Structure
+
+- railway.csv – Dataset containing UK railway journey data
+- analysis_queries.sql – SQL queries used to answer key business questions
+- README.md – Project documentation and analysis overview
+
 ## Key Insights
 
 - Certain routes consistently experience higher average delays than others.
@@ -33,3 +39,10 @@ This analysis answers the following questions:
 - Refund requests tend to occur on journeys with longer delays.
 - A small number of stations handle a large proportion of journeys.
 - Certain routes generate significantly higher ticket revenue.
+
+- ## Skills Demonstrated
+
+- SQL Aggregations (SUM, AVG, COUNT)
+- Data filtering and cleaning
+- Grouping and ranking results
+- Business-focused data analysis
